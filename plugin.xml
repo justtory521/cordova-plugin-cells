@@ -3,7 +3,7 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
   id="com.lovearthstudio.cells"
     version="0.0.1">
-  <name>Cells</name>
+  <name>Codova Plugin Cells</name>
   <description>Cordova Cells Plugin</description>
   <author>Yi Mingyu</author>
   <license>Apache 2.0 License</license>
